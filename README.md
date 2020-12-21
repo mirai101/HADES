@@ -2,7 +2,7 @@
 
 
 **HADES**
-Advance scanner for config files left over, that may Contain usernames and passwords, also search for Cpanel, WordPress and Find WordPress plugins.
+Advance scanner for config files left over, that may Contain usernames and passwords, also search for Cpanel, WordPress-login and Find WordPress plugins.
 
 
 ![](image/hades.png)
