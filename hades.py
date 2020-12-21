@@ -29,7 +29,7 @@ def banner():
     r = Fore.RED
     g = Fore.GREEN
     w = Fore.WHITE
-    v = "1.0"
+    v = "BETA"
     print(f"""
 
       {r} __ ___   __   _ _    ____
