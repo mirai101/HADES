@@ -2,7 +2,7 @@
 
 
 **HADES**
-Advance scanner for config files left over, that may Contain usernames and passwords, also search for Cpanel, Sitemap, and WordPress plugins.
+Advance scurity scanner for webserver vulnerabilities.
 
 
 ![](image/hades.png)
@@ -15,8 +15,13 @@ Advance scanner for config files left over, that may Contain usernames and passw
 5. Find SQL Injection and Local File Inclusion (LFI)
 
 **features for official release:**
->Remote File Inclusion (RFI)
->Sitemap plugins
->WordPress upload
->Shellshockbug
->CVE‑2010‑2088
+Remote File Inclusion (RFI)
+CVE‑2010‑2088
+Broken Authentication and Session Management
+Insecure Direct Object References
+Cross Site Request Forgery (CSRF)
+Security Misconfiguration
+Insecure Cryptographic Storage
+Failure to restrict URL Access
+Insufficient Transport Layer Protection
+Unvalidated Redirects and Forwards
