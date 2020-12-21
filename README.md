@@ -9,4 +9,4 @@ Advance scanner for config files left over, that may Contain usernames and passw
 2. search for Sitemap
 3. search for WordPress
 4. Find WordPress plugins
-5. Find SQL Ijection and Local File Inclusion
+5. Find SQL Injection and Local File Inclusion
