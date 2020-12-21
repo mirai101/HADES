@@ -1,5 +1,8 @@
+<h1>BETA</h1>
+
+
 **HADES**
-Advance scanner for config files left over, that may Contain usernames and passwords, also search for Cpanel, WebPress and WebPress plugins.
+Advance scanner for config files left over, that may Contain usernames and passwords, also search for Cpanel, WebPress and Find WebPress plugins.
 
 
 ![](image/hades.png)
